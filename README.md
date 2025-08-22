@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/RajathRao2000/store-rating-app-frontend">
     <img src="public/store3d.jpg" alt="Logo" width="100" height="80">
   </a>
 
@@ -14,7 +14,7 @@ registered on this platform
     <!-- <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="https://store-rating-app.vercel.app/">View Demo</a>
+    <a href="https://store-rating-app-frontend.vercel.app/sign-in">View Demo</a>
     <!-- ·
     <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -26,28 +26,39 @@ registered on this platform
 
 ## About The Project
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
 This project was done according to the requirements in the challenge given in the coding challenge section.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## MERN Stack
+## Backend
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
+Find backend code here: [Github](https://github.com/RajathRao2000/backend_store-rating-app)
 
-Front end: [Github](https://github.com/RajathRao2000/store-rating-app-frontend)
-Backend: [Github](https://github.com/RajathRao2000/backend_store-rating-app)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Credentials
+
+- <b>Admin:</b>
+
+  - meghavarshini.si@example.com
+  - Admin@123
+
+- <b>User:</b>
+
+  - aishwarya.bm@example.com
+  - User@123
+
+- <b>Store Owner:</b>
+  - arjun.iyer@email.com
+  - Store@123
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-- [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
 
 - ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
-- ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 - ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 - ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
 - ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
@@ -155,12 +166,6 @@ Validations should be present on all forms:
 - The Address length should be 400 characters max
 - The password length max 16 and 8 min, it should have at least 1 upper, and 1 special character in it.
 - Email address validation should be there in the email field.
-
-### Note:
-
-- All the tables should have sorting (ascending/descending) functionality on important fields like name, email, etc.
-- Follow best practices on both the frontend and backend sides.
-- Best practices need to be followed on table schema design on the database side.
 
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
